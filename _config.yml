@@ -1,0 +1,16 @@
+name: ChatGPT - content designer manual
+title: Possibilities and limitations of ChatGPT in terms of content design
+author: Przemysław Lipkowski
+description: Technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
+remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
+
+color_scheme: vistula
+
+search_enabled: true
+
+aux_links:
+  "Go to repository":
+    - "//github.com/Lipkowski/Possibilities-and-limitations-of-chatGPT-in-terms-of-content-design"
+
+back_to_top: true
+back_to_top_text: "Back to top"
