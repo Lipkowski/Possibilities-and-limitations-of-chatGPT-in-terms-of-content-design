@@ -17,7 +17,7 @@ OpenAI, an industry-leading organization founded in 2015, has been at the forefr
 
 OpenAI has distinguished itself by its commitment to responsible and ethical AI development. They strive to create safe and unbiased AI systems that benefit society as a whole. OpenAI actively engages in ongoing research and engineering to address potential risks and to ensure that AI technologies are designed and deployed in a manner that aligns with human values. By adhering to strict guidelines and continuously refining its models, OpenAI aims to build trust and foster a positive impact on the AI community.
 
->We will actively cooperate with other research and policy institutions; we seek to create a global community working together to address AGI’s global challenges [(source)](https://openai.com/charter)
+>We will actively cooperate with other research and policy institutions; we seek to create a global community working together to address AGI’s global challenges [(source)](https://openai.com/charter).
  
  OpenAI, despite its significant achievements in AI development, has faced ethical concerns from critics. These concerns include the potential for biases and fairness issues in AI models like ChatGPT, the risk of spreading misinformation and manipulation through AI-generated content, privacy and data security issues, the need for accountability and transparency in AI systems, and the potential unintended consequences of deploying powerful AI models.
 
