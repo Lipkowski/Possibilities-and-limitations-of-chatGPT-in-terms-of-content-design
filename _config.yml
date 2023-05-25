@@ -1,15 +1,25 @@
-name: ChatGPT - content designer manual
 title: Possibilities and limitations of ChatGPT in terms of content design
-author: Przemysław Lipkowski
-description: Technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
-remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
+email: lipkowski1996@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+Welcome to my site,
+My name is Przemysław Lipkowski and I, a senior newbie in the IT world, will introduce you to a powerful tool for content creation (and not only) — ChatGPT. 
 
-color_scheme: vistula
-theme: jekyll-theme-minimal-light
-
+I started my journey with ChatGPT (free plan) at the beginning of 2023 and I have been using it ever since to boost my productivity and the quality of content I provide. The free plan gives me all the help I need with tasks such as answering problematic emails, clarifying hard-to-understand manuals, researching the problem in question, and many more. It helped me out when the deadlines seemed impossible to meet. Hopefully, you will also find ChatGPT helpful, so sit back, relax, and get to know GPT better!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  Lipkowski
+repository: Lipkowski/Possibilities-and-limitations-of-chatGPT-in-terms-of-content-design
 search_enabled: true
-
-aux_links:
+# Build settings
+theme: jekyll-theme-minimal-light
+search_enabled: true
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  
+  aux_links:
   "Go to repository":
     - "//github.com/Lipkowski/Possibilities-and-limitations-of-chatGPT-in-terms-of-content-design"
 
