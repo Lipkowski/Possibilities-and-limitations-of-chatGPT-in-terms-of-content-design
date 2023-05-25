@@ -5,6 +5,7 @@ description: Technical documentation hosted on Github pages, using the Just the 
 remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: vistula
+theme: jekyll-theme-minimal
 
 search_enabled: true
 
